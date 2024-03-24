@@ -4,59 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c28c9cf456c6c753",
+        "id": "1b971a707fb49cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc70c2c86ac8e3ef",
+            "id": "64ae2f59eafc8e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Coleções Aninhadas em Ruby (Nota Zettel).md",
+                "file": "zettels/Nota Zettel sobre Configuração de Segurança em Aplicações Web com Spring Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59c3f6f950fa94d8",
+            "id": "b7385134c3d3033b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Poo em ruby.md",
+                "file": "zettels/Aplicação de Segurança em Nível de Método no Spring.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "115b37f9d08239ca",
+            "id": "6501fec3927fdc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Getter e Setter em ruby.md",
+                "file": "zettels/Anotação @PostAuthorize no Spring Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8623ded96b6a27a9",
+            "id": "58856bc4f3f7abbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Classe em ruby.md",
+                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Getter e Setter em ruby.md",
+                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Getter e Setter em ruby.md",
+                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Getter e Setter em ruby.md"
+                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md"
               }
             }
           }
@@ -183,10 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115b37f9d08239ca",
+  "active": "58856bc4f3f7abbb",
   "lastOpenFiles": [
-    "zettels/Poo em ruby.md",
+    "zettels/Anotação @PostAuthorize no Spring Security.md",
+    "zettels/Identificação do Usuário Autenticado no Spring Security.md",
+    "zettels/Aplicação de Segurança em Nível de Método no Spring.md",
+    "zettels/Nota Zettel sobre Configuração de Segurança em Aplicações Web com Spring Security.md",
+    "zettels/UserDetails em spring.md",
+    "zettels/Configuração de Autenticação e Segurança em Aplicações Spring.md",
+    "zettels/HATEOAS Detalhes e Implementação na Arquitetura REST.md",
+    "zettels/Module em ruby.md",
+    "zettels/Untitled.md",
+    "zettels/Níveis de Maturidade REST Uma Abordagem Detalhada para a Evolução da API.md",
+    "zettels/REST Arquitetura para APIs Web Eficientes.md",
+    "zettels/Tipos de Parâmetros em REST Detalhes e Exemplos.md",
     "zettels/Getter e Setter em ruby.md",
+    "zettels/Poo em ruby.md",
     "zettels/Classe em ruby.md",
     "zettels/Coleções Aninhadas em Ruby (Nota Zettel).md",
     "zettels/Princípio Aberto-Fechado (OCP).md",
@@ -199,18 +211,6 @@
     "zettels/Princípio da Responsabilidade Única (SRP).md",
     "zettels/Princípio SOLID.md",
     "zettels/@SessionAttributes do spring.md",
-    "zettels/Áreas de Conhecimento do PMBOK.md",
-    "zettels/Require Java.md",
-    "zettels/Operações não bloqueantes-Bloqueantes.md",
-    "zettels/O que é o Spring?.md",
-    "zettels/Estrutura de projeto spring boot.md",
-    "zettels/Core do spring.md",
-    "zettels/Require transitive.md",
-    "zettels/Pmbok processos.md",
-    "zettels/PMI, PMBOK e Áreas de Conhecimento.md",
-    "zettels/Gerencia de projetos. Origem.md",
-    "zettels/Padrão WokerPool em golang.md",
-    "zettels/Select em Golang.md",
     "zettels",
     "templates",
     "projetos",
