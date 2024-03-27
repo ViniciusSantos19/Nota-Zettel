@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1b971a707fb49cf7",
+        "id": "5d6f401b030ec31c",
         "type": "tabs",
         "children": [
           {
-            "id": "64ae2f59eafc8e99",
+            "id": "61c771be0ef83cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Nota Zettel sobre Configuração de Segurança em Aplicações Web com Spring Security.md",
+                "file": "zettels/Definindo Propriedades Específicas de Perfil no Spring Boot.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b7385134c3d3033b",
+            "id": "112fa74cfa06e6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Aplicação de Segurança em Nível de Método no Spring.md",
+                "file": "zettels/Cons consumindo serviços REST com RestTemplate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6501fec3927fdc1e",
+            "id": "2d78e17be0b35bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettels/Anotação @PostAuthorize no Spring Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58856bc4f3f7abbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md",
+                "file": "zettels/Consumindo serviços REST com RestTemplate - Métodos HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md",
+                "file": "zettels/Consumindo serviços REST com RestTemplate - Métodos HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md",
+                "file": "zettels/Consumindo serviços REST com RestTemplate - Métodos HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettels/Identificação do Usuário Autenticado no Spring Security.md"
+                "file": "zettels/Consumindo serviços REST com RestTemplate - Métodos HTTP.md"
               }
             }
           }
@@ -183,34 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58856bc4f3f7abbb",
+  "active": "2d78e17be0b35bff",
   "lastOpenFiles": [
+    "zettels/Cons consumindo serviços REST com RestTemplate.md",
+    "zettels/Consumindo serviços REST com RestTemplate - Métodos HTTP.md",
+    "zettels/Definindo Propriedades Específicas de Perfil no Spring Boot.md",
+    "zettels/Manipulando Requisições DELETE com Spring MVC.md",
+    "zettels/Habilitando serviços baseados em dados com Spring Data REST.md",
+    "zettels/Paginação e ordenação.md",
+    "zettels/Ativando Perfis no Spring Boot.md",
+    "zettels/Criando Beans Condicionalmente com Perfis no Spring Boot.md",
+    "zettels/Controladores RESTful em Spring MVC.md",
+    "zettels/Manipulação de Dados em REST APIs com Spring MVC.md",
+    "zettels/Entendendo PUT vs PATCH no Spring Data REST.md",
+    "zettels/Criação e Uso de Propriedades de Configuração Customizadas no Spring Boot.md",
+    "zettels/Nota Zettel sobre Configuração de Segurança em Aplicações Web com Spring Security.md",
+    "zettels/Configuração de Logging no Spring Boot.md",
+    "zettels/Usando Valores Especiais de Propriedade no Spring Boot.md",
+    "zettels/Declarando Metadados de Propriedades de Configuração no Spring Boot.md",
+    "zettels/Configurando com Perfis no Spring Boot.md",
+    "zettels/Aplicação de Segurança em Nível de Método no Spring.md",
     "zettels/Anotação @PostAuthorize no Spring Security.md",
     "zettels/Identificação do Usuário Autenticado no Spring Security.md",
-    "zettels/Aplicação de Segurança em Nível de Método no Spring.md",
-    "zettels/Nota Zettel sobre Configuração de Segurança em Aplicações Web com Spring Security.md",
+    "zettels/Ambiente e Propriedades de Configuração (Spring Environment and Configuration Properties).md",
+    "zettels/Configurando o Servidor Embutido (Configuring the Embedded Server).md",
     "zettels/UserDetails em spring.md",
     "zettels/Configuração de Autenticação e Segurança em Aplicações Spring.md",
     "zettels/HATEOAS Detalhes e Implementação na Arquitetura REST.md",
     "zettels/Module em ruby.md",
-    "zettels/Untitled.md",
-    "zettels/Níveis de Maturidade REST Uma Abordagem Detalhada para a Evolução da API.md",
-    "zettels/REST Arquitetura para APIs Web Eficientes.md",
-    "zettels/Tipos de Parâmetros em REST Detalhes e Exemplos.md",
-    "zettels/Getter e Setter em ruby.md",
-    "zettels/Poo em ruby.md",
-    "zettels/Classe em ruby.md",
-    "zettels/Coleções Aninhadas em Ruby (Nota Zettel).md",
-    "zettels/Princípio Aberto-Fechado (OCP).md",
-    "zettels/Casos de Uso dos Princípios SOLID em Aplicações Web Backend Java Spring Boot.md",
-    "zettels/Hash em ruby.md",
-    "zettels/Ruby enumerables.md",
-    "zettels/Array em ruby.md",
-    "zettels/Princípio da Substituição de Liskov (LSP).md",
-    "zettels/Princípio da Segregação da Interface (ISP).md",
-    "zettels/Princípio da Responsabilidade Única (SRP).md",
-    "zettels/Princípio SOLID.md",
-    "zettels/@SessionAttributes do spring.md",
     "zettels",
     "templates",
     "projetos",
